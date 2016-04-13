@@ -1,0 +1,164 @@
+/*
+Name: New Idea
+Description: Clean, crisp and colorful.
+Version: 1.0
+Author: Nyekrip
+URL: http://www.nyekrip.com/
+*/
+.crayon-theme-new-idea {
+	border-width: 1px !important;
+	border-color: #999 !important;
+	text-shadow: none !important;
+	background: #6c7a89 !important;
+}
+.crayon-theme-new-idea-inline {
+	border-width: 1px !important;
+	border-color: #ddd !important;
+	background: #6c7a89 !important;
+}
+.crayon-theme-new-idea .crayon-table .crayon-nums {
+	background: #dfefff !important;
+	color: #5499de !important;
+}
+.crayon-theme-new-idea .crayon-striped-line {
+	background: #6c7a89 !important;
+}
+.crayon-theme-new-idea .crayon-striped-num {
+	background: #c8e1fa !important;
+	color: #317cc5 !important;
+}
+.crayon-theme-new-idea .crayon-marked-line {
+	background: #4a4a4a !important;
+	border-width: 1px !important;
+	border-color: #6c7a89 !important;
+}
+.crayon-theme-new-idea .crayon-marked-num {
+	color: #1561ac !important;
+	background: #b3d3f4 !important;
+	border-width: 1px !important;
+	border-color: #5999d9 !important;
+}
+.crayon-theme-new-idea .crayon-marked-line.crayon-striped-line {
+	background: #6c7a89 !important;
+}
+.crayon-theme-new-idea .crayon-marked-num.crayon-striped-num {
+	background: #9ec5ec !important;
+	color: #105395 !important;
+}
+.crayon-theme-new-idea .crayon-marked-line.crayon-top {
+	border-top-style: solid !important;
+}
+.crayon-theme-new-idea .crayon-marked-num.crayon-top {
+	border-top-style: solid !important;
+}
+.crayon-theme-new-idea .crayon-marked-line.crayon-bottom {
+	border-bottom-style: solid !important;
+}
+.crayon-theme-new-idea .crayon-marked-num.crayon-bottom {
+	border-bottom-style: solid !important;
+}
+.crayon-theme-new-idea .crayon-info {
+	background: #faf9d7 !important;
+	border-bottom-width: 1px !important;
+	border-bottom-color: #b1af5e !important;
+	border-bottom-style: solid !important;
+	color: #7e7d34 !important;
+}
+.crayon-theme-new-idea .crayon-toolbar {
+	background: #53bd84 !important;
+	border-bottom-width: 1px !important;
+	border-bottom-color: #BBB !important;
+}
+.crayon-theme-new-idea .crayon-toolbar > div {
+	float: left !important;
+}
+.crayon-theme-new-idea .crayon-toolbar .crayon-tools {
+	float: right !important;
+}
+.crayon-theme-new-idea .crayon-title {
+	color: #ffffff !important;
+}
+.crayon-theme-new-idea .crayon-language {
+	color: #999 !important;
+}
+.crayon-theme-new-idea .crayon-button {
+	background-color: #DDD !important;
+}
+.crayon-theme-new-idea .crayon-button:hover {
+	background-color: #EEE !important;
+	color: #666;
+}
+.crayon-theme-new-idea .crayon-button.crayon-pressed:hover {
+	background-color: #EEE !important;
+	color: #666;
+}
+.crayon-theme-new-idea .crayon-button.crayon-pressed {
+	background-color: #BCBCBC !important;
+	color: #FFF;
+}
+.crayon-theme-new-idea .crayon-button.crayon-pressed:active {
+	background-color: #BCBCBC !important;
+	color: #FFF;
+}
+.crayon-theme-new-idea .crayon-button:active {
+	background-color: #BCBCBC !important;
+	color: #FFF;
+}
+.crayon-theme-new-idea .crayon-pre .crayon-c {
+	color: #ffffff !important;
+}
+.crayon-theme-new-idea .crayon-pre .crayon-s {
+	color: #ffffff !important;
+}
+.crayon-theme-new-idea .crayon-pre .crayon-p {
+	color: #ffffff !important;
+}
+.crayon-theme-new-idea .crayon-pre .crayon-ta {
+	color: #ffffff !important;
+}
+.crayon-theme-new-idea .crayon-pre .crayon-k {
+	color: #ffffff !important;
+}
+.crayon-theme-new-idea .crayon-pre .crayon-st {
+	color: #ffffff !important;
+}
+.crayon-theme-new-idea .crayon-pre .crayon-r {
+	color: #ffffff !important;
+}
+.crayon-theme-new-idea .crayon-pre .crayon-t {
+	color: #ffffff !important;
+}
+.crayon-theme-new-idea .crayon-pre .crayon-m {
+	color: #ffffff !important;
+}
+.crayon-theme-new-idea .crayon-pre .crayon-i {
+	color: #ffffff !important;
+}
+.crayon-theme-new-idea .crayon-pre .crayon-e {
+	color: #ffffff !important;
+}
+.crayon-theme-new-idea .crayon-pre .crayon-v {
+	color: #ffffff !important;
+}
+.crayon-theme-new-idea .crayon-pre .crayon-cn {
+	color: #ffffff !important;
+}
+.crayon-theme-new-idea .crayon-pre .crayon-o {
+	color: #ffffff !important;
+}
+.crayon-theme-new-idea .crayon-pre .crayon-sy {
+	color: #ffffff !important;
+}
+.crayon-theme-new-idea .crayon-pre .crayon-n {
+	color: #ffffff !important;
+	font-style: italic !important;
+}
+.crayon-theme-new-idea .crayon-pre .crayon-f {
+	color: #ffffff !important;
+}
+.crayon-theme-new-idea .crayon-pre .crayon-h {
+	color: #ffffff !important;
+}
+.crayon-theme-new-idea .crayon-pre {
+	color: #ffffff !important;
+}
